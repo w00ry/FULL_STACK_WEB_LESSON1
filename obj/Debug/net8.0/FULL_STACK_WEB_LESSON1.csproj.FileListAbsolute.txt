@@ -1,0 +1,14 @@
+C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\bin\Debug\net8.0\FULL_STACK_WEB_LESSON1.exe
+C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\bin\Debug\net8.0\FULL_STACK_WEB_LESSON1.deps.json
+C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\bin\Debug\net8.0\FULL_STACK_WEB_LESSON1.runtimeconfig.json
+C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\bin\Debug\net8.0\FULL_STACK_WEB_LESSON1.dll
+C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\bin\Debug\net8.0\FULL_STACK_WEB_LESSON1.pdb
+C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\obj\Debug\net8.0\FULL_STACK_WEB_LESSON1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\obj\Debug\net8.0\FULL_STACK_WEB_LESSON1.AssemblyInfoInputs.cache
+C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\obj\Debug\net8.0\FULL_STACK_WEB_LESSON1.AssemblyInfo.cs
+C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\obj\Debug\net8.0\FULL_STACK_WEB_LESSON1.csproj.CoreCompileInputs.cache
+C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\obj\Debug\net8.0\FULL_STACK_WEB_LESSON1.dll
+C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\obj\Debug\net8.0\refint\FULL_STACK_WEB_LESSON1.dll
+C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\obj\Debug\net8.0\FULL_STACK_WEB_LESSON1.pdb
+C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\obj\Debug\net8.0\FULL_STACK_WEB_LESSON1.genruntimeconfig.cache
+C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\obj\Debug\net8.0\ref\FULL_STACK_WEB_LESSON1.dll
