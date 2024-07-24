@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "FULL_STACK_WEB_LESSON1/1.0.0": {
+      "ders2/1.0.0": {
         "runtime": {
-          "FULL_STACK_WEB_LESSON1.dll": {}
+          "ders2.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "FULL_STACK_WEB_LESSON1/1.0.0": {
+    "ders2/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

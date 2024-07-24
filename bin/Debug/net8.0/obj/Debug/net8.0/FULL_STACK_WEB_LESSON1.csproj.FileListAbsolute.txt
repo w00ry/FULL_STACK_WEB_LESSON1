@@ -1,0 +1,5 @@
+C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\bin\Debug\net8.0\obj\Debug\net8.0\FULL_STACK_WEB_LESSON1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\bin\Debug\net8.0\obj\Debug\net8.0\FULL_STACK_WEB_LESSON1.AssemblyInfoInputs.cache
+C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\bin\Debug\net8.0\obj\Debug\net8.0\FULL_STACK_WEB_LESSON1.AssemblyInfo.cs
+C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\bin\Debug\net8.0\obj\Debug\net8.0\FULL_STACK_WEB_LESSON1.csproj.CoreCompileInputs.cache
+C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\bin\Debug\net8.0\obj\Debug\net8.0\FULL_STACK_WEB_LESSON1.sourcelink.json

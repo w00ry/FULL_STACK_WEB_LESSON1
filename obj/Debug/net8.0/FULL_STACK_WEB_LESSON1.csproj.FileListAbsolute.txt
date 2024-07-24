@@ -12,3 +12,4 @@ C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\obj\Debug\net8.0\refint
 C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\obj\Debug\net8.0\FULL_STACK_WEB_LESSON1.pdb
 C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\obj\Debug\net8.0\FULL_STACK_WEB_LESSON1.genruntimeconfig.cache
 C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\obj\Debug\net8.0\ref\FULL_STACK_WEB_LESSON1.dll
+c:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\obj\Debug\net8.0\FULL_STACK_WEB_LESSON1.sourcelink.json
