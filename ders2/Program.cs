@@ -1,10 +1,33 @@
-﻿namespace ders2;
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace ders2;
 
 class Program
 {
 
     static void Main(string[] args)
-    {
+    { 
+     Console.Write("değer giriniz:");
+       double ortalama=Convert.ToDouble(Console.ReadLine());
+        if(ortalama<50){
+            Console.WriteLine("sınıfta kaldı");
+        }
+        else if(ortalama<=70){
+            Console.WriteLine("düz geçti");
+        }
+        else if(ortalama<=85){
+            Console.WriteLine("teşekkür aldı");
+        }
+        else if(ortalama<=100){
+            Console.WriteLine("taktir aldı");
+        }
+        else{
+            Console.WriteLine("0-100 arası bir değer giriniz");
+        }
+
+
+        
+        
    /*     byte skor1,skor2;
        skor1=4;
        skor2=10;
@@ -18,7 +41,7 @@ class Program
        }
         */
         
-         Console.Write("Öğrencinin ortalamasını giriniz:");
+        /*  Console.Write("Öğrencinin ortalamasını giriniz:");
         int ortalama=Convert.ToInt16(Console.ReadLine());
 
         if(ortalama<50){
@@ -39,7 +62,7 @@ class Program
         else{
             Console.WriteLine("0--100 aralığında bir sayı giriniz");
         }
-
+ */
 }
 }
 
