@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ders3-2")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ders4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5468ced1d4d1d3e874d8093a27688f4fb1ad739")]
-[assembly: System.Reflection.AssemblyProductAttribute("ders3-2")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ders3-2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+885785bac0d022d49cde103330d1503760053fb1")]
+[assembly: System.Reflection.AssemblyProductAttribute("ders4")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ders4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

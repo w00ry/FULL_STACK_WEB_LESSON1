@@ -1,0 +1,15 @@
+C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\ders4\bin\Debug\net8.0\ders4.exe
+C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\ders4\bin\Debug\net8.0\ders4.deps.json
+C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\ders4\bin\Debug\net8.0\ders4.runtimeconfig.json
+C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\ders4\bin\Debug\net8.0\ders4.dll
+C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\ders4\bin\Debug\net8.0\ders4.pdb
+C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\ders4\obj\Debug\net8.0\ders4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\ders4\obj\Debug\net8.0\ders4.AssemblyInfoInputs.cache
+C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\ders4\obj\Debug\net8.0\ders4.AssemblyInfo.cs
+C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\ders4\obj\Debug\net8.0\ders4.csproj.CoreCompileInputs.cache
+C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\ders4\obj\Debug\net8.0\ders4.sourcelink.json
+C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\ders4\obj\Debug\net8.0\ders4.dll
+C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\ders4\obj\Debug\net8.0\refint\ders4.dll
+C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\ders4\obj\Debug\net8.0\ders4.pdb
+C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\ders4\obj\Debug\net8.0\ders4.genruntimeconfig.cache
+C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\ders4\obj\Debug\net8.0\ref\ders4.dll

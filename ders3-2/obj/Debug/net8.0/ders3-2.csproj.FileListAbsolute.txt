@@ -1,5 +1,0 @@
-C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\ders3-2\obj\Debug\net8.0\ders3-2.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\ders3-2\obj\Debug\net8.0\ders3-2.AssemblyInfoInputs.cache
-C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\ders3-2\obj\Debug\net8.0\ders3-2.AssemblyInfo.cs
-C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\ders3-2\obj\Debug\net8.0\ders3-2.csproj.CoreCompileInputs.cache
-C:\Users\dav3pro\Documents\GitHub\FULL_STACK_WEB_LESSON1\ders3-2\obj\Debug\net8.0\ders3-2.sourcelink.json

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dav3pro\\Documents\\GitHub\\FULL_STACK_WEB_LESSON1\\ders3-2\\ders3-2.csproj": {}
+    "C:\\Users\\dav3pro\\Documents\\GitHub\\FULL_STACK_WEB_LESSON1\\ders4\\ders4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dav3pro\\Documents\\GitHub\\FULL_STACK_WEB_LESSON1\\ders3-2\\ders3-2.csproj": {
+    "C:\\Users\\dav3pro\\Documents\\GitHub\\FULL_STACK_WEB_LESSON1\\ders4\\ders4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dav3pro\\Documents\\GitHub\\FULL_STACK_WEB_LESSON1\\ders3-2\\ders3-2.csproj",
-        "projectName": "ders3-2",
-        "projectPath": "C:\\Users\\dav3pro\\Documents\\GitHub\\FULL_STACK_WEB_LESSON1\\ders3-2\\ders3-2.csproj",
+        "projectUniqueName": "C:\\Users\\dav3pro\\Documents\\GitHub\\FULL_STACK_WEB_LESSON1\\ders4\\ders4.csproj",
+        "projectName": "ders4",
+        "projectPath": "C:\\Users\\dav3pro\\Documents\\GitHub\\FULL_STACK_WEB_LESSON1\\ders4\\ders4.csproj",
         "packagesPath": "C:\\Users\\dav3pro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dav3pro\\Documents\\GitHub\\FULL_STACK_WEB_LESSON1\\ders3-2\\obj\\",
+        "outputPath": "C:\\Users\\dav3pro\\Documents\\GitHub\\FULL_STACK_WEB_LESSON1\\ders4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dav3pro\\AppData\\Roaming\\NuGet\\NuGet.Config",
