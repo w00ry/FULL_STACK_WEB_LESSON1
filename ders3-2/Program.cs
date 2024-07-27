@@ -1,6 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
-
-namespace ders3;
+namespace ders3-2;
 
 class Program
 {
@@ -14,6 +13,7 @@ class Program
         case "kredi"
         Console.WriteLine("kredi kartı hesabı seçildi");
         break;
+
         case "nakit"
          Console.WriteLine("nakit kartı hesabı seçildi");
         break;
@@ -21,9 +21,7 @@ class Program
          Console.WriteLine("veresiye hesabı seçildi");
         break;
         default:
-         Console.WriteLine("geçersiz");
-        break;
+         Console.WriteLine("kredi kartı hesabı seçildi");
        }
-      /* Console.ReadKey(); */
     }
 }

@@ -14,6 +14,7 @@ class Program
         Console.WriteLine(AdSoyad);
         Console.WriteLine(boy);
         Console.WriteLine(Cinsiyet);*/
+        
 
     }
 }
